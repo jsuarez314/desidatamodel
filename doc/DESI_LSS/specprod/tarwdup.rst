@@ -35,6 +35,8 @@ Empty HDU.
 HDU1
 ----
 
+EXTNAME = POTENTIAL_ASSIGNMENTS
+
 *Merge between potential assigments from fiber assigment and input targets*
 
 Required Header Keywords
