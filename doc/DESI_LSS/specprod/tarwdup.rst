@@ -12,12 +12,12 @@ tarwdup
 Contents
 ========
 
-====== ======= ======== =================================
-Number EXTNAME Type     Contents
-====== ======= ======== =================================
-HDU0_  PRIMARY IMAGE    *PrimaryHDU with array data type*
-HDU1_          BINTABLE *Targets with duplicates*
-====== ======= ======== =================================
+====== ====================== ======== =================================
+Number EXTNAME                Type     Contents
+====== ====================== ======== =================================
+HDU0_  PRIMARY                IMAGE    *PrimaryHDU with array data type*
+HDU1_  POTENTIAL_ASSIGNMENTS  BINTABLE *Targets with duplicates*
+====== ====================== ======== =================================
 
 
 FITS Header Units
