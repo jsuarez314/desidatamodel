@@ -17,7 +17,7 @@ Contents
 Number EXTNAME Type     Contents
 ====== ======= ======== =================================
 HDU0_  PRIMARY IMAGE    *PrimaryHDU with array data type*
-HDU1_          BINTABLE *Table with randoms and NOBS*
+HDU1_  DATA    BINTABLE *Table with randoms and NOBS*
 ====== ======= ======== =================================
 
 
@@ -35,6 +35,8 @@ Empty HDU.
 
 HDU1
 ----
+
+EXTNAME=DATA
 
 *Table for randoms with RANNUM, given by the directory with 
 unique TARGETIDS (randoms) associated with tiles where it has 
