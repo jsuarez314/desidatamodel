@@ -36,7 +36,7 @@ Empty HDU.
 HDU1
 ----
 
-EXTNAME=DATA
+EXTNAME = DATA
 
 *Table for randoms with RANNUM, given by the directory with 
 unique TARGETIDS (randoms) associated with tiles where it has 
