@@ -5,7 +5,7 @@ datcomb_tarwdup
 :Summary: *This section should be filled in with a high-level description of
     this file. In general, you should remove or replace the emphasized text
     (\*this text is emphasized\*) in this document.*
-:Naming Convention: ``datcomb_{PROG}_tarwdup_alltiles.fits``, where ``{PROG}`` refers to the observing program, either dark or bright.
+:Naming Convention: ``datcomb_{PROGRAM}_tarwdup_alltiles.fits``, where ``{PROGRAM}`` refers to the observing program, either dark or bright.
     
 :Regex: For example, the bright time file is ``datcomb_bright_tarwdup_alltiles.fits``
 
