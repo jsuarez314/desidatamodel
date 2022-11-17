@@ -41,4 +41,4 @@ MASKBITS		                    `BITMASKS_LEGACY`_
 .. _`TARGET_L188`: https://github.com/desihub/desitarget/blob/main/py/desitarget/data/targetmask.yaml#L188
 .. _`MASKBITS_L84`: https://github.com/desihub/desispec/blob/main/py/desispec/maskbits.py#L84
 .. _`ZWARN`: https://github.com/desihub/redrock/blob/main/py/redrock/zwarning.py#L14
-.. _`BITMASK_LEGACY`: https://www.legacysurvey.org/dr8/bitmasks/
+.. _`BITMASKS_LEGACY`: https://www.legacysurvey.org/dr8/bitmasks/
