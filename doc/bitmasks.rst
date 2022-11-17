@@ -34,13 +34,13 @@ WISEMASK_W2		                    `BITMASKS_LEGACY`_
 MASKBITS		                    `BITMASKS_LEGACY`_
 =================================== ==================
 
-.. _`CMX`: https://github.com/desihub/desitarget/blob/main/py/desitarget/cmx/data/cmx_targetmask.yaml
-.. _`SV1`: https://github.com/desihub/desitarget/blob/main/py/desitarget/sv1/data/sv1_targetmask.yaml
-.. _`SV2`: https://github.com/desihub/desitarget/blob/main/py/desitarget/sv2/data/sv2_targetmask.yaml
-.. _`SV3`: https://github.com/desihub/desitarget/blob/main/py/desitarget/sv3/data/sv3_targetmask.yaml
-.. _`TARGET`: https://github.com/desihub/desitarget/blob/main/py/desitarget/data/targetmask.yaml
-.. _`MASKBITS_L55`: https://github.com/desihub/desispec/blob/main/py/desispec/maskbits.py#L55
-.. _`TARGET_L188`: https://github.com/desihub/desitarget/blob/main/py/desitarget/data/targetmask.yaml#L188
-.. _`MASKBITS_L84`: https://github.com/desihub/desispec/blob/main/py/desispec/maskbits.py#L84
-.. _`ZWARN`: https://github.com/desihub/redrock/blob/main/py/redrock/zwarning.py#L14
-.. _`BITMASKS_LEGACY`: https://www.legacysurvey.org/dr8/bitmasks/
+.. _`CMX`: https://github.com/desihub/desitarget/blob/2.5.0/py/desitarget/cmx/data/cmx_targetmask.yaml
+.. _`SV1`: https://github.com/desihub/desitarget/blob/2.5.0/py/desitarget/sv1/data/sv1_targetmask.yaml
+.. _`SV2`: https://github.com/desihub/desitarget/blob/2.5.0/py/desitarget/sv2/data/sv2_targetmask.yaml
+.. _`SV3`: https://github.com/desihub/desitarget/blob/2.5.0/py/desitarget/sv3/data/sv3_targetmask.yaml
+.. _`TARGET`: https://github.com/desihub/desitarget/blob/2.5.0/py/desitarget/data/targetmask.yaml
+.. _`MASKBITS_L55`: https://github.com/desihub/desispec/blob/2.5.0/py/desispec/maskbits.py#L55
+.. _`TARGET_L188`: https://github.com/desihub/desitarget/blob/2.5.0/py/desitarget/data/targetmask.yaml#L188
+.. _`MASKBITS_L84`: https://github.com/desihub/desispec/blob/2.5.0/py/desispec/maskbits.py#L84
+.. _`ZWARN`: https://github.com/desihub/redrock/blob/2.5.0/py/redrock/zwarning.py#L14
+.. _`BITMASKS_LEGACY`: https://www.legacysurvey.org/dr9/bitmasks/
