@@ -2,6 +2,13 @@
 Bit Masks in DESI
 =================
 
+====== ======= ======== ============
+Number EXTNAME Type     Contents
+====== ======= ======== ============
+HDU0_  PRIMARY IMAGE    Empty
+HDU1_  TARGETS BINTABLE Target table
+====== ======= ======== ============
+
 =============== =============
 BIT_MASK        URL
 ===============	=============
@@ -21,15 +28,6 @@ DESI_TARGET		`TARGET`_
 BGS_TARGET		`TARGET`_
 MWS_TARGET		`TARGET`_
 SCND_TARGET		`TARGET`_
-QAFIBERSTATUS	`MASKBITS_L55`_
-FIBERSTATUS		`MASKBITS_L55`_
-COADD_FIBERSTATUS	`MASKBITS_L55`_
-OBSCONDITIONS		`TARGET_L188`_
-sframe-CAMERA-EXPID.fits:MASK		`MASKBITS_L84`_
-ZWARN		`ZWARN`_
-WISEMASK_W1		`BITMASKS_LEGACY`_
-WISEMASK_W2		`BITMASKS_LEGACY`_
-MASKBITS		`BITMASKS_LEGACY`_
 ===============	=============
 
 .. _`CMX`: https://github.com/desihub/desitarget/blob/main/py/desitarget/cmx/data/cmx_targetmask.yaml
@@ -39,6 +37,6 @@ MASKBITS		`BITMASKS_LEGACY`_
 .. _`TARGET`: https://github.com/desihub/desitarget/blob/main/py/desitarget/data/targetmask.yaml
 .. _`MASKBITS_L55`: https://github.com/desihub/desispec/blob/main/py/desispec/maskbits.py#L55
 .. _`TARGET_L188`: https://github.com/desihub/desitarget/blob/main/py/desitarget/data/targetmask.yaml#L188
-.. _`MASKBITS_L84` https://github.com/desihub/desispec/blob/main/py/desispec/maskbits.py#L84
+.. _`MASKBITS_L84`: https://github.com/desihub/desispec/blob/main/py/desispec/maskbits.py#L84
 .. _`ZWARN`: https://github.com/desihub/redrock/blob/main/py/redrock/zwarning.py#L14
 .. _`BITMASK_LEGACY`: https://www.legacysurvey.org/dr8/bitmasks/
