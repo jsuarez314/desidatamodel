@@ -2,6 +2,8 @@
 Bit Masks in DESI
 =================
 
+This page details the meaning of the bitmasks provided by DESI.
+
 =================================== ==================
 BIT_MASK                            URL
 =================================== ==================
