@@ -30,6 +30,7 @@ ZWARN		`ZWARN`_
 WISEMASK_W1		`BITMASKS_LEGACY`_
 WISEMASK_W2		`BITMASKS_LEGACY`_
 MASKBITS		`BITMASKS_LEGACY`_
+===============	=============
 
 .. _`CMX`: https://github.com/desihub/desitarget/blob/main/py/desitarget/cmx/data/cmx_targetmask.yaml
 .. _`SV1`: https://github.com/desihub/desitarget/blob/main/py/desitarget/sv1/data/sv1_targetmask.yaml
